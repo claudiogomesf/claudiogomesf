@@ -10,13 +10,13 @@
 • 💻 Studing Front-End development
 
   Operational Systems:<br><br>
-<img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&labelColor=0078D6" alt="Windows" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&labelColor=0078D6" alt="Windows" />
 
   Versioning and Communication:<br>
   
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&labelColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&labelColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
 
-<div align="left">
-  <a href="https://github.com/coyouth-dev">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coyouth-dev&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+  <div align="left">
+     <a href="https://github.com/coyouth-dev">
+     <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coyouth-dev&layout=compact&langs_count=7&theme=gruvbox"/>
+  </div>
